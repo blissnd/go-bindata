@@ -1,6 +1,6 @@
 # Warning
 
-**this repository is not maintained. Questions or suggestions can be posted [here](https://github.com/jteeuwen/discussions/issues).**
+**this repository is not maintained. Questions or suggestions can be posted [here](https://github.com/blissnd/discussions/issues).**
 
 ## bindata
 
@@ -17,7 +17,7 @@ output being generated.
 
 To install the library and command line program, use the following:
 
-	go get -u github.com/jteeuwen/go-bindata/...
+	go get -u github.com/blissnd/go-bindata/...
 
 
 ### Usage
